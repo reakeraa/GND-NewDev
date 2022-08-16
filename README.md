@@ -1,11 +1,13 @@
 # GND-NewDev
 Infrastructure New Dev Experience
 
+# Development Environment Framework
 # Github Account Setup 
 # Public Access Token Creation
 # Github Actions
-# Python
 # VScode (VSC) IDE
-# Terraform
+# Automating System Infrastructure Tasks
+Terraform
+Python
 # No SQL
 
