@@ -8,6 +8,8 @@ Github Actions
 
 # Development Environment Framework
 VScode (VSC) IDE
+IDLE Python 3.10
+Python 3.10
 
 # Automating System Infrastructure Tasks
 Terraform
